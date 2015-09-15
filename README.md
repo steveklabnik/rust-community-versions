@@ -19,7 +19,7 @@ Badges are stored as Jekyll posts. For example, the badge for this blog post:
 
 Is stored at:
 
-* [\_posts/2013-10-18-pointers-in-rust-a-guide.md](http://steveklabnik.github.io/rust-community-versions/_posts/2013-10-18-pointers-in-rust-a-guide.md)
+* [\_posts/2013-10-18-pointers-in-rust-a-guide.md](https://github.com/steveklabnik/rust-community-versions/blob/gh-pages/_posts/2013-10-18-pointers-in-rust-a-guide.md)
 
 Versioning informations is store in the YAML front-matter of that post:
 
